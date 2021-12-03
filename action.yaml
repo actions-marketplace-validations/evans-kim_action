@@ -1,6 +1,6 @@
-name: 'deployphp/action'
+name: 'evans-kim/action'
 
-description: 'Deploy with Deployer'
+description: 'Deploy with Deployer(forked)'
 
 inputs:
 
